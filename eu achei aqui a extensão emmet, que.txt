@@ -1,1 +1,0 @@
-eu achei aqui a extensão emmet, que ajuda a escrever os codigos de forma rapida atravez de sugestoes de codigo, de acordo com que nos estamos inserindo no vs code.
